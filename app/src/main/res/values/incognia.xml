@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Your App ID-->
+    <string name="incognia_app_id" translatable="false">c978ef8b-f670-4ba8-afc8-ce8dea1d9707</string>
+
+    <!-- Whether SDK logs are enabled -->
+    <bool name="incognia_log_enabled">true</bool>
+    
+    <!-- Whether installed apps collection is enabled -->
+    <bool name="incognia_installed_apps_collection_enabled">false</bool>
+</resources>
